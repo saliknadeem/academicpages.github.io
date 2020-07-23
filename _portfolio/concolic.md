@@ -5,7 +5,7 @@ Developed using: **Python, Tensorflow, CNNs** <br>
 *[Project report](/files/dc_report.pdf)* "
 date: "Nov 2019"
 collection: portfolio
-priority: "03"
+priority: "4"
 ---
 
 Made neural networks more robust to adversarial attacks and increased their neuron activation coverage resulting in more comprehensive testing on popular toy datasets MNIST, Fashion-MNIST and Cifar10.

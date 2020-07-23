@@ -17,7 +17,7 @@ About me
 I am a Computer Science graduate student under the supervision of Dr. Faisal Qureshi and a member of the [Visual Computing Lab](http://vclab.science.uoit.ca/) in the Faculty of Science at Ontario Tech University. My research is focused on cross-view human-action recognition. I completed my Bachelor of Science in Computer Science from Lahore University of Management Sciences.   
 <br>
 My research interests are:
-Computer Vision, Deep Learning, Neural Networks, Image Processing, Deep Reinforcement Learning, Generative Models.</span>
+Computer Vision, Deep Learning, Image Processing, Deep Reinforcement Learning, Generative Models.</span>
 {: .notice}
 
 

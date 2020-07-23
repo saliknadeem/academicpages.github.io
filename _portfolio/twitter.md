@@ -5,7 +5,7 @@ Developed using: **Python, Tweepy (Twitter API), Ploty, Geopy and NetworkX** <br
 *[Project report](/files/tw_report.pdf)* "
 date: "April 2019"
 collection: portfolio
-priority: "04"
+priority: "3"
 ---
 
 

@@ -6,7 +6,7 @@ Developed using: **Python, OpenAi Gym, Neural networks, Genetic Algorithm.** <br
 *[Project report](files/drl_report.pdf)* "
 date: "Dec 2019"
 collection: portfolio
-priority: "02"
+priority: "2"
 ---
 <img src='/images/drl.jpg'>
 
