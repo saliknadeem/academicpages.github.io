@@ -1,7 +1,7 @@
 ---
 title: "TLD long-term tracking algorithm"
-excerpt: " <img src='/images/tld.png' style='width:1000px;'> | *Long-term tracking of previously unknown objects in unconstrained Environments.* <br> <br>
-**Languages/Frameworks used: C++, OpenCV.** "
+excerpt: " <img src='/images/tld.png' style='width:1000px;'> | *Long-term tracking of previously unknown objects in unconstrained environments.* <br> <br>
+Developed using: **C++, OpenCV** "
 date: "June 2012"
 collection: portfolio
 priority: "10"

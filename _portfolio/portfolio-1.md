@@ -1,7 +1,7 @@
 ---
 title: "Social distance tool with depth"
 excerpt: " <img src='https://github.com/saliknadeem/social-distance-tool-with-depth/raw/master/assets/sample_output.gif' style='width:2000px;'> | *Highlighting people in a crowd violating social distancing protocol using detection and depth. Using an unconstrained input video we can infer depth and detect people who are close together.* <br/> <br/> 
-**Languages/Frameworks used: Python, Pytorch, Detectron2, Fast-RCNN, OpenCV, monocular depth estimation** <br> 
+Developed using: **Python, Pytorch, Detectron2, Fast-RCNN, OpenCV, monocular depth estimation** <br> 
 *[Github link](https://github.com/saliknadeem/social-distance-tool-with-depth)* "
 date: "May 2020"
 collection: portfolio
