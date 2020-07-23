@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+thumbnail: "/images/thumb.jpg"
 ---
 
 
@@ -13,7 +14,10 @@ About me
 ======
 
 <span style="font-size:1.5em;">
-I am a Computer Science graduate student under the supervision of Dr. Faisal Qureshi and a member of the [Visual Computing Lab](http://vclab.science.uoit.ca/) in the Faculty of Science at Ontario Tech University. Currently researching on cross-view human action recognition. I am deeply passionate about all-things deep learning; my area of focus is computer vision applications. Highly motivated to work in the industry and with academia, working on challenging AI problems. Other areas of interest include deep reinforcement learning, generative models and image processing.</span>
+I am a Computer Science graduate student under the supervision of Dr. Faisal Qureshi and a member of the Visual Computing Lab in the Faculty of Science at Ontario Tech University. My research is focused on cross-view human-action recognition. I completed my Bachelor of Science in Computer Science from Lahore University of Management Sciences.   
+<br>
+My research interests are:
+Computer Vision, Deep Learning, Neural Networks, Image Processing, Deep Reinforcement Learning, Generative Models.</span>
 {: .notice}
 
 

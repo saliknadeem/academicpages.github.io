@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Salik's site"
 title_separator          : "-"
 name                     : &name "Salik Nadeem"
 description              : &description "Computer Vision & Deep Learning Engineer"
