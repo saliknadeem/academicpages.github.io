@@ -19,6 +19,3 @@ A python based framework for searching Twitter using a keyword query which can b
 <img src='/images/tw_OntarioTech_graph.png'>
 
 ***[Project report](../../files/tw_report.pdf)***
-
-
-This project was an implementation of [Concolic Testing for Deep Neural Networks](https://arxiv.org/abs/1805.00089).

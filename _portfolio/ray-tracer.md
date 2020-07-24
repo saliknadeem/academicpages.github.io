@@ -1,6 +1,6 @@
 ---
 title: "Ray tracer"
-excerpt: " <img src='/images/cg_main.jpg' style='width:1400px;'> | *Implemented a basic ray tracer for spheres and triangles with lighs, shading and reflection and antialiasing using distribution raytracing* <br> <br>
+excerpt: " <img src='/images/cg_main.jpg' style='width:1400px;'> | *Implemented a basic ray tracer for spheres and triangles with lighs, shading and reflection and antialiasing using distribution ray tracing* <br> <br>
 Developed using: **C++** "
 date: "Oct 2011"
 collection: portfolio
@@ -9,7 +9,7 @@ priority: "6"
 
 <img src='/images/cg_main.jpg'>
 
-Implemented a basic ray tracer for spheres and triangles with lighs, shading and reflection and antialiasing using distribution raytracing.
+Implemented a basic ray tracer for spheres and triangles with lighs, shading and reflection and antialiasing using distribution ray tracing.
 
 
 **References**
