@@ -2,7 +2,7 @@
 title: "Twitter network analysis"
 excerpt: " <img src='/images/tw_comm.png' style='width:1500px;'> | *Creates a network graph of all users involved in the dissemination of a query (keyword, hashtag, meme, etc.) and analyzes trends/connections between the users.* <br/> <br/> 
 Developed using: **Python, Tweepy (Twitter API), Ploty, Geopy and NetworkX** <br> 
-*[Project report](/files/tw_report.pdf)* "
+*[Project report](/files/tw_report.pdf){:target='_blank'}* "
 date: "April 2019"
 collection: portfolio
 priority: "3"
@@ -18,4 +18,4 @@ A python based framework for searching Twitter using a keyword query which can b
 
 <img src='/images/tw_OntarioTech_graph.png'>
 
-***[Project report](../../files/tw_report.pdf)***
+***[Project report](../../files/tw_report.pdf){:target="_blank"}***

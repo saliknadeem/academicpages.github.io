@@ -14,4 +14,4 @@ The  main  approach  taken  in  the  TLD  algorithm  is  the  concept  of  onlin
 <img src='/images/tld2.png'>
 
 
-The project was an implementation of the original work by [Zdenek Kalal](http://kahlan.eps.surrey.ac.uk/featurespace/tld/).
+The project was an implementation of the original work by [Zdenek Kalal](http://kahlan.eps.surrey.ac.uk/featurespace/tld/){:target="_blank"}.

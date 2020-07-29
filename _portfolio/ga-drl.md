@@ -3,7 +3,7 @@ title: "Using deep neuroevolution to train reinforcement learning agents"
 excerpt: " <img src='/images/drl.gif' style='width:2000px;'> | *Trained three environments (Cart pole, Mountain car and Pendulum) from OpenAI Gym solving all environments in 3-5 generations trained in a few minutes on a GPU using a variant of Genetic Algorithms* 
 <br> <br>
 Developed using: **Python, OpenAi Gym, Neural networks, Genetic Algorithm.** <br>
-*[Project report](files/drl_report.pdf)* "
+*[Project report](files/drl_report.pdf){:target='_blank'}* "
 date: "Dec 2019"
 collection: portfolio
 priority: "2"
@@ -14,4 +14,4 @@ Trained three environments (Cart pole, Mountain car and Pendulum) from OpenAI Gy
 
 <img src='/images/drl.gif'>
 
-***[Project report](../../files/drl_report.pdf)***
+***[Project report](../../files/drl_report.pdf){:target="_blank"}***
