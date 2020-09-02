@@ -21,7 +21,7 @@ Computer Vision, Deep Learning, Image Processing, Deep Reinforcement Learning, G
 {: .notice}
 
 
-Selected Projects
+Select Projects
 ======
 
 {% assign sorted_portfolio = site.portfolio | sort: 'priority' %}
