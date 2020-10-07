@@ -14,4 +14,6 @@ Built a simple social distance violation detection tool using Faster-RCNN, OpenC
 
 ***[Project link](https://github.com/saliknadeem/social-distance-tool-with-depth){:target="_blank"}***
 
+***[Result video](../../files/sdt_result.mp4){:target="_blank"}***
+
 This project was selected for Phase 1 of [Intel and OpenCV's Spatial AI Competition](https://opencv.org/announcing-the-opencv-spatial-ai-competition-sponsored-by-intel-phase-1-winners/).
